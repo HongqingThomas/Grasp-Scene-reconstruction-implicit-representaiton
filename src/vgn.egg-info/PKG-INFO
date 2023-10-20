@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: vgn
+Version: 0.1.0
+Summary: Volumetric Grasping Network.
+Home-page: https://github.com/ethz-asl/vgn
+Author: 
+Maintainer: Michel Breyer
+Maintainer-email: mbreyer@ethz.ch
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
